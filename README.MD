@@ -8,6 +8,7 @@
   - [Tools and Techniques Utilized](#tools-and-techniques-utilized)
   - [Results and Recommendations](#results-and-recommendations)
   - [What I Have Learned From This Project](#what-i-have-learned-from-this-project)
+  - [How to Use This Repository](#how-to-use-this-repository)
 
 ## Project Objective
 The goal of this project is to analyze the customer data of Megaline, a telecommunications company offering two prepaid plans: Surf and Ultimate. 
@@ -107,5 +108,22 @@ Revenue Comparisons:
 - **Revenue and Cost Analysis:** Developed a structured approach to calculating and comparing revenue across different user groups and plans.
 - **Statistical Testing Competence:** Gained experience in hypothesis formulation and statistical testing to make data-backed decisions on revenue and user behavior.
 - **Data Visualization & Insights:** Enhanced ability to use visualizations to identify trends, compare plan performance, and communicate findings effectively.
+
+[back to top](#megaline-telecom-analysis)
+
+## How to Use This Repository
+
+1. **Clone the Repository**
+git clone [https://github.com/realdanizilla/Megaline.git](https://github.com/realdanizilla/Megaline.git)
+
+2. **Explore the Notebooks and datasets**
+Review the Jupyter Notebooks and datasets for data exploration, preprocessing, and model building.
+
+3. **Execute the Analysis**
+Run the provided code to preprocess the data, train classification models, and test their accuracy in recommending plans.
+
+4. **Check Model Performance**
+Evaluate model predictions to see how well they recommend the appropriate telecom plan for customers.
+
 
 [back to top](#megaline-telecom-analysis)
